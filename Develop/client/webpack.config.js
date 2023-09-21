@@ -28,8 +28,8 @@ module.exports = () => {
         description: 'Edit text online and offline.',
         background_color: "#31a9e1",
         theme_color: "#31a9e1",
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
