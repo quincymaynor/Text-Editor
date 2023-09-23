@@ -17,5 +17,3 @@ This site can be accessed at
 N/A
 
 ## License
-
-Refer to the LICENSE in the repository
